@@ -2,6 +2,10 @@
 
 A simple editor application built with Next.js, tldraw, and tRPC.
 
+## Demo
+
+You can test the app [here](https://vidext-challenge.vercel.app/)
+
 ## Features
 
 - Real-time drawing and editing using tldraw
@@ -26,7 +30,7 @@ cd vidext-challenge
 
 2. Install dependencies:
 ```bash
-npm install --force
+npm install
 ```
 
 3. Set up your environment variables:
